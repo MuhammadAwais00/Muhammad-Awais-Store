@@ -1,0 +1,26 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+@media (min-width: 786px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+.hp {
+  height: 80%;
+  width: 80%;
+}
+.wc {
+  height: 60%;
+  width: 60%;
+}
+.btn {
+  margin-top: 10px;
+}
+.combine {
+  height: 37vh;
+  width: 100%;
+}
